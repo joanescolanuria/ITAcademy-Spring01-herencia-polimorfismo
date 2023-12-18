@@ -1,0 +1,12 @@
+D: abc
+  F: SubElementoDeA.java
+ Última modificación: Mon Dec 18 10:42:36 CET 2023
+D: cdf
+F: Contenido.java
+  Última modificación:Mon Dec 18 11:26:07 CET 2023
+F: documento.txt
+  Última modificación:Mon Dec 18 09:48:51 CET 2023
+F: leerporconsola.txt
+  Última modificación:Mon Dec 18 11:06:32 CET 2023
+F: objeto.ser
+  Última modificación:Mon Dec 18 11:25:35 CET 2023
